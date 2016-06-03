@@ -1,9 +1,4 @@
 name: New Once Worn
 markdown: kramdown
 include: ['_pages']
-collections:
-  products:
-    output:true
-  projects:
-    output:true
 
