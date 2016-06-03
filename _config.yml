@@ -2,4 +2,7 @@ name: New Once Worn
 markdown: kramdown
 include: ['_pages']
 baseurl: /now_website
+collections:
+  products:
+    output:true
 
