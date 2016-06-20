@@ -4,7 +4,7 @@ title: Products
 permalink: "/products/"
 ---
 
-{%for product in site.products %}
+{% for product in site.products %}
   <div>
     <h2><img src="{{product.image_path}}" /><a href= "{{product.url}}"> {{product.title}}</a></h2>
   </div>
